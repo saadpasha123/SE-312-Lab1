@@ -5,6 +5,7 @@ public class lab1 {
         int num1 = 10;
         int num2 = 20;
         int sum = num1 + num2;
+        // Updated in v2
         System.out.println("Output Sum: " + sum);
     }
 }
